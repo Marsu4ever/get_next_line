@@ -2,7 +2,7 @@
 
 **What it is**:  
 **Function** that...  
-    i. reads a line from a file  
+    i. <u>reads</u> a line from a file  
     ii. ... and then returns it as a string
 
 **Note**.  
