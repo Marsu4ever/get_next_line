@@ -2,8 +2,8 @@
 
 **What it is**:  
 **Function** that...  
-   i. reads a line from a file  
-   ii. ... and then returns it as a string
+    i. reads a line from a file  
+    ii. ... and then returns it as a string
 
 **Note**.  
 Put this function in a loop and it'll read each line from the file until it reaches the end (that is to say, the EOF).
