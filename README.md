@@ -1,6 +1,6 @@
 # get_next_line
 
-**What it is**:  
+**What it is**: 
 **Function** that
 i. reads a line from a file
 ii. ... and then returns it as a string
